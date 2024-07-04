@@ -1,4 +1,4 @@
-package br.com.akemii.clinic.patient;
+package br.com.akemii.clinic.patient.repository;
 
 import br.com.akemii.clinic.patient.model.Patient;
 import org.springframework.data.jpa.repository.JpaRepository;
